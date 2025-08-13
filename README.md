@@ -217,8 +217,4 @@ npm run cypress:run
 2. Commit changes: `git commit -m "Add new BDD tests"`
 3. Push and open a PR.
 
----
 
-
-
-If you want a one‑slide summary (Problem → AI‑assisted Solution → Impact), we can add it to this README as a section or publish it as a separate `docs/` page.
